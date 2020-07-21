@@ -1,2 +1,2 @@
 # test_curd_02
-ssm整合学习-curd
+根据尚硅谷视频进行的ssm整合学习demo-人力curd
